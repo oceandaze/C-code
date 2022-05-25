@@ -1,0 +1,6 @@
+1.1.12.2=http://www.xxx1.com
+10.1.12.2=http://www.xxx2.com
+100.1.12.2=http://www.xxx13.com
+11.1.12.2=http://www.xxx1444.com
+11.10.12.2=http://www.xxx111111.com 
+192.129.01.02=https://www.runoob.com/cprogramming/c-tutorial.html

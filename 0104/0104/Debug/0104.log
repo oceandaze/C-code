@@ -1,0 +1,9 @@
+﻿  0104.cpp
+d:\c++\c++code\0104\0104\stack.h(31): warning C4715: “Stack<int>::top”: 不是所有的控件路径都返回值
+d:\c++\c++code\0104\0104\stack.h(31): warning C4715: “Stack<double>::top”: 不是所有的控件路径都返回值
+d:\c++\c++code\0104\0104\queue.h(30): warning C4715: “Queue<int>::font”: 不是所有的控件路径都返回值
+d:\c++\c++code\0104\0104\queue.h(37): warning C4715: “Queue<int>::back”: 不是所有的控件路径都返回值
+d:\c++\c++code\0104\0104\queue.h(37): warning C4715: “Queue<double>::back”: 不是所有的控件路径都返回值
+d:\c++\c++code\0104\0104\queue.h(30): warning C4715: “Queue<double>::font”: 不是所有的控件路径都返回值
+  0104.vcxproj -> D:\C++\C++Code\0104\Debug\0104.exe
+  0104.vcxproj -> D:\C++\C++Code\0104\Debug\0104.pdb (Full PDB)

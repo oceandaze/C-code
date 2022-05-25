@@ -1,0 +1,5 @@
+﻿  1227.cpp
+d:\c++\c++code\1227\1227\1227.cpp(119): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\c++\c++code\1227\1227\1227.cpp(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  1227.vcxproj -> D:\C++\C++Code\1227\Debug\1227.exe
+  1227.vcxproj -> D:\C++\C++Code\1227\Debug\1227.pdb (Full PDB)

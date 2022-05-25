@@ -1,0 +1,30 @@
+PING www.baidu.com (14.215.177.39) 56(84) bytes of data.
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=1 ttl=128 时间=32.3 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=2 ttl=128 时间=30.8 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=3 ttl=128 时间=33.8 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=4 ttl=128 时间=31.1 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=5 ttl=128 时间=31.0 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=6 ttl=128 时间=31.0 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=7 ttl=128 时间=31.6 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=8 ttl=128 时间=31.4 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=9 ttl=128 时间=31.0 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=10 ttl=128 时间=32.0 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=11 ttl=128 时间=31.2 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=12 ttl=128 时间=30.7 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=13 ttl=128 时间=31.8 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=14 ttl=128 时间=31.2 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=15 ttl=128 时间=32.6 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=16 ttl=128 时间=31.4 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=17 ttl=128 时间=31.3 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=18 ttl=128 时间=31.4 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=19 ttl=128 时间=31.3 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=20 ttl=128 时间=31.0 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=21 ttl=128 时间=31.0 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=22 ttl=128 时间=31.0 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=23 ttl=128 时间=31.1 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=24 ttl=128 时间=30.8 毫秒
+64 比特，来自 www.baidu.com (14.215.177.39): icmp_seq=25 ttl=128 时间=31.1 毫秒
+
+--- www.baidu.com ping 统计 ---
+已发送 25 个包， 已接收 25 个包, 0% 包丢失, 耗时 37362 毫秒
+rtt min/avg/max/mdev = 30.668/31.399/33.784/0.668 ms

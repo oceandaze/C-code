@@ -1,0 +1,9 @@
+﻿  Dir.cpp
+d:\c++\c++code\1218\1218\dir.cpp(22): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\c++\c++code\1218\1218\dir.cpp(27): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\c++\c++code\1218\1218\dir.cpp(45): error C2065: “name”: 未声明的标识符
+d:\c++\c++code\1218\1218\dir.cpp(47): error C2065: “name”: 未声明的标识符
+d:\c++\c++code\1218\1218\dir.cpp(48): error C2660: “strcat_s”: 函数不接受 2 个参数
+d:\c++\c++code\1218\1218\dir.cpp(49): error C2065: “newPath”: 未声明的标识符
+d:\c++\c++code\1218\1218\dir.cpp(49): error C2065: “fout”: 未声明的标识符
+d:\c++\c++code\1218\1218\dir.cpp(49): error C3861: “dfsFolder”: 找不到标识符

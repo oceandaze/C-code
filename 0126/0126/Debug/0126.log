@@ -1,0 +1,4 @@
+﻿  0126.cpp
+d:\c++\c++code\0126\0126\0126.cpp(10): warning C4172: 返回局部变量或临时变量的地址: a
+  0126.vcxproj -> D:\C++\C++Code\0126\Debug\0126.exe
+  0126.vcxproj -> D:\C++\C++Code\0126\Debug\0126.pdb (Full PDB)

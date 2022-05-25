@@ -1,0 +1,8 @@
+﻿  test1216.cpp
+  Vector.cpp
+  正在生成代码...
+d:\c++\c++code\test1216\test1216\vector.cpp(82): warning C4715: “Vector::front”: 不是所有的控件路径都返回值
+d:\c++\c++code\test1216\test1216\vector.cpp(90): warning C4715: “Vector::back”: 不是所有的控件路径都返回值
+d:\c++\c++code\test1216\test1216\vector.cpp(74): warning C4715: “Vector::at”: 不是所有的控件路径都返回值
+  test1216.vcxproj -> D:\C++\C++Code\test1216\Debug\test1216.exe
+  test1216.vcxproj -> D:\C++\C++Code\test1216\Debug\test1216.pdb (Full PDB)

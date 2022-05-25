@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  TestDll.cpp
+    正在创建库 D:\C++\C++Code\TestDll\Debug\TestDll.lib 和对象 D:\C++\C++Code\TestDll\Debug\TestDll.exp
+  TestDll.vcxproj -> D:\C++\C++Code\TestDll\Debug\TestDll.dll
+  TestDll.vcxproj -> D:\C++\C++Code\TestDll\Debug\TestDll.pdb (Full PDB)

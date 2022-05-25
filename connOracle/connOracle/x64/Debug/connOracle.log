@@ -1,0 +1,4 @@
+﻿  connOracle.cpp
+d:\c++\c++code\connoracle\include\ocilibc\api.h(15202): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  connOracle.vcxproj -> D:\C++\C++Code\connOracle\x64\Debug\connOracle.exe
+  connOracle.vcxproj -> D:\C++\C++Code\connOracle\x64\Debug\connOracle.pdb (Full PDB)

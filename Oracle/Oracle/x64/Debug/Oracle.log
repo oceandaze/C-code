@@ -1,0 +1,4 @@
+﻿  Oracle.cpp
+c:\users\administrator\desktop\ocilib_windows\include\ocilibc\api.h(15202): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Oracle.vcxproj -> D:\C++\C++Code\Oracle\x64\Debug\Oracle.exe
+  Oracle.vcxproj -> D:\C++\C++Code\Oracle\x64\Debug\Oracle.pdb (Full PDB)
